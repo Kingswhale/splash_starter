@@ -31,10 +31,10 @@
  
  const App  = () => {
  
-  //Hide Splash screen on app load.
-  //  React.useEffect(() => {
-  //    SplashScreen.hide();
-  //  });
+  Hide Splash screen on app load.
+   React.useEffect(() => {
+     SplashScreen.hide();
+   });
    
    return (
      <NavigationContainer theme={theme}>
